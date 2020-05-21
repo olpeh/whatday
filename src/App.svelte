@@ -17,17 +17,17 @@
 
 	h1 {
 		text-transform: uppercase;
-		font-size: 4em;
+		font-size: 8vw;
 		font-weight: bold;
 	}
 
 	.weekDay {
-		font-size: 6em;
+		font-size: 16vw;
 		color:#ff3e00;
 	}
 
 	.displayDate {
-		font-size: 3em;
+		font-size: 6vw;
 	}
 
 	@media (min-width: 640px) {
